@@ -56,5 +56,3 @@ Here are some projects I am working on:
 ---
 
 Thanks for visiting my profile!
-
-![Rutuja's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rutuja1423&show_icons=true)
