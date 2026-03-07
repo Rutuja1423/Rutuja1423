@@ -15,12 +15,21 @@ Learning programming for statistical analysis and research
 ---
 
 ## Skills
-- Python
-- R Programming
-- Regression Analysis
-- Factor Analysis
-- Data Visualization
-- Statistical Modeling
+
+Programming  
+Python, SQL
+
+Data Analysis  
+Pandas, NumPy, Data Visualization
+
+Machine Learning  
+Scikit-learn, NLP, Classification Models
+
+Deep Learning  
+TensorFlow, LSTM
+
+Tools  
+Git, Jupyter Notebook
 
 ---
 
@@ -47,3 +56,5 @@ Here are some projects I am working on:
 ---
 
 Thanks for visiting my profile!
+
+GitHub Stats: https://github-readme-stats.vercel.app/api?username=Rutuja1423&show_icons=true
