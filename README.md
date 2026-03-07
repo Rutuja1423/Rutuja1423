@@ -43,7 +43,7 @@ Here are some projects I am working on:
 
 ## Connect with Me
 - GitHub: https://github.com/Rutuja1423
-
+- LinkedIn: https://www.linkedin.com/in/rutuja-shinde-bb83b0215/
 ---
 
 Thanks for visiting my profile!
