@@ -57,4 +57,4 @@ Here are some projects I am working on:
 
 Thanks for visiting my profile!
 
-![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutuja1423&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutuja1423)
