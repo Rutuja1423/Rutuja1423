@@ -82,6 +82,7 @@ Here are some projects I am currently working on:
 ## Connect With Me
 
 GitHub: https://github.com/rutuja-shinde
+
 LinkedIn: https://www.linkedin.com/in/rutuja-shinde-bb83b0215/
 
 ---
