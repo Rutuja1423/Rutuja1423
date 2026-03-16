@@ -34,6 +34,25 @@ Git, Jupyter Notebook
 
 ---
 
+Featured Projects
+
+SMS Spam Classification
+Machine learning and deep learning model to detect spam SMS messages.
+
+Time Series Forecasting with Prophet
+Forecasting future values using historical time-series data.
+
+Coffee Sales Analysis
+Exploratory data analysis of coffee sales dataset to identify trends and business insights.
+
+Customer Booking Prediction
+Machine learning model predicting customer booking behavior.
+
+SQL Sales Analysis
+Business insights extracted from sales data using SQL queries.
+
+---
+
 ## Projects
 
 Here are some projects I am currently working on:
