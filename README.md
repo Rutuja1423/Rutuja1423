@@ -34,7 +34,7 @@ Git, Jupyter Notebook
 
 ---
 
-Featured Projects
+##Featured Projects
 
 SMS Spam Classification
 Machine learning and deep learning model to detect spam SMS messages.
