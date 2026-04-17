@@ -100,9 +100,8 @@ Here are some projects I am currently working on:
 
 ## Connect With Me
 
-GitHub: https://github.com/rutuja-shinde
-
-LinkedIn: https://www.linkedin.com/in/rutuja-shinde-bb83b0215/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Shinde-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rutuja-shinde-bb83b0215/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rutuja1423-black?style=flat&logo=github)](https://github.com/Rutuja1423)
 
 ---
 
