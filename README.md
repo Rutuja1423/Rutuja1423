@@ -40,9 +40,9 @@
 
 ## About
 
-I am **Rutuja Shinde**, a Data Analyst with an MSc Statistics background and hands-on experience in Python, SQL, Power BI, Excel, and R.
+I am **Rutuja Shinde**, a Data Analyst with an MSc Statistics background and hands-on experience in Python, SQL, Power BI, Excel and R.
 
-I work on data cleaning, exploratory data analysis, statistical testing, machine learning, dashboard development, and business reporting. My project work includes government datasets, business dashboards, time-series forecasting, text classification, A/B testing, and survey-based AI trust analysis.
+I work on data cleaning, exploratory data analysis, statistical testing, machine learning, dashboard development and business reporting. My project work includes government datasets, business dashboards, time-series forecasting, text classification, A/B testing and survey-based AI trust analysis.
 
 My focus is simple: convert raw data into clear, reliable, and actionable insights.
 
@@ -121,9 +121,9 @@ My focus is simple: convert raw data into clear, reliable, and actionable insigh
 Worked on agriculture and education datasets for district-level reporting, trend analysis, and decision-support insights.
 
 - Cleaned, transformed, and analyzed agriculture datasets from 2019–2023 and education datasets from 2015–2024 across districts.
-- Processed 50,000+ records covering crop area, yield, productivity, school distribution, enrollment, and dropout trends.
-- Applied T-Test, ANOVA, growth rate analysis, and K-Means clustering to identify trends and patterns.
-- Built Power BI and Excel dashboards for reporting, trend analysis, and decision-support insights.
+- Processed 50,000+ records covering crop area, yield, productivity, school distribution, enrollment and dropout trends.
+- Applied T-Test, ANOVA, growth rate analysis and K-Means clustering to identify trends and patterns.
+- Built Power BI and Excel dashboards for reporting, trend analysis and decision-support insights.
 
 <br/>
 
@@ -177,7 +177,7 @@ Forecasted daily COVID-19 cases in the United States using lag-based supervised 
 | Focus | Understanding forecasting behavior across traditional and deep learning models |
 | Repository | [View Repository](https://github.com/Rutuja1423/covid19-time-series-forecasting) |
 
-This project converts time-series data into supervised learning features and compares Linear Regression, ANN, and LSTM models for daily case forecasting.
+This project converts time-series data into supervised learning features and compares Linear Regression, ANN and LSTM models for daily case forecasting.
 
 </details>
 
@@ -188,7 +188,7 @@ This project converts time-series data into supervised learning features and com
 
 <br/>
 
-Built an SMS spam detection system using text preprocessing, feature extraction, machine learning, and deep learning.
+Built an SMS spam detection system using text preprocessing, feature extraction, machine learning and deep learning.
 
 | Attribute | Details |
 |---|---|
@@ -209,7 +209,7 @@ This project applies a complete text-classification workflow to identify spam me
 
 <br/>
 
-Designed an interactive Power BI dashboard to track revenue trends, product demand, peak sales hours, and KPI performance.
+Designed an interactive Power BI dashboard to track revenue trends, product demand, peak sales hours and KPI performance.
 
 | Attribute | Details |
 |---|---|
@@ -219,7 +219,7 @@ Designed an interactive Power BI dashboard to track revenue trends, product dema
 | Focus | Revenue trends, product demand, peak sales hours, business insights |
 | Repository | [View Repository](https://github.com/Rutuja1423/Coffee_Sales_Analysis) |
 
-This project converts sales data into dashboard visuals that help understand product-level performance, time-based sales behavior, and revenue contribution patterns.
+This project converts sales data into dashboard visuals that help understand product-level performance, time-based sales behavior and revenue contribution patterns.
 
 </details>
 
@@ -234,7 +234,7 @@ This project converts sales data into dashboard visuals that help understand pro
 | Academic Achievement | BSc Statistics with CGPA 9.25 |
 | Government Internship | Data Analyst Intern at Directorate of Economics & Statistics, Government of Maharashtra |
 | Large Dataset Handling | Processed 50,000+ agriculture and education records |
-| Applied Analytics Work | Built projects in A/B testing, forecasting, text classification, and dashboard analytics |
+| Applied Analytics Work | Built projects in A/B testing, forecasting, text classification and dashboard analytics |
 | BI Reporting | Built Power BI and Excel dashboards for reporting and decision-support insights |
 
 </div>
@@ -327,7 +327,7 @@ This project converts sales data into dashboard visuals that help understand pro
 
 <div align="center">
 
-<b>Turning data into clear analysis, reliable dashboards, and decision-ready insights.</b>
+<b>Turning data into clear analysis, reliable dashboards and decision-ready insights.</b>
 
 </div>
 
